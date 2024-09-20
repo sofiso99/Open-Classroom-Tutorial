@@ -1,0 +1,25 @@
+body{
+    color: #485EC7;
+    background-color: #E6BCCD;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subtitle{
+    color: #6E8E50;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.links{
+    color:#3E5825;  
+}
+.links:visited {
+    color: #6aa84f;
+}
+.links:hover {
+    color: #151814;
+    background-color: #DFFFD6;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+h2{
+    font-size: 18px;
+}
